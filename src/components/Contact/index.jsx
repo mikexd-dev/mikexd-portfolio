@@ -49,8 +49,9 @@ export default function index() {
                 <div className={styles.info}>
                     <div>
                         <span>
-                            <h3>Version</h3>
-                            <p>2022 © Edition</p>
+                            <h3>Credits</h3>
+                            <p>Olivier's Tutorial</p>
+                            <p>dennissnellenberg</p>
                         </span>
                         <span>
                             <h3>Version</h3>

@@ -7,11 +7,13 @@
     position: fixed;
     z-index: 99;
     background-color: #141516;
+    list-style-type: none;
     svg{
         position: absolute;
         top: 0;
         width: 100%;
         height: calc(100% + 300px);
+        list-style-type: none;
         path{
             fill: #141516;
         }
